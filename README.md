@@ -11,3 +11,6 @@ A build of Raspiducky for windows, so you can remote ducky
 
 # Usage
 `` Raspiducky.exe -p duckypath.dd -r ``
+
+# Original 
+https://github.com/arrase/Raspiducky
