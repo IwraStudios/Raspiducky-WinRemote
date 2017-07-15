@@ -8,3 +8,6 @@ A build of Raspiducky for windows, so you can remote ducky
 * (i might be missing something)
 * cmd -> python setup.py py2exe (while in the Raspiducky-WinRemote folder)
 * enjoy (file in dist)
+
+# Usage
+`` Raspiducky.exe -p duckypath.dd -r ``
